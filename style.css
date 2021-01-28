@@ -1,0 +1,93 @@
+
+h1,
+h2,
+h3,
+h4, a {
+  font-family: "Oswald", sans-serif;
+}
+
+.container {
+    height: 100%;
+    border: black solid 2px;
+    padding: 20px 20px 50px 20px;
+
+}
+
+/* Home Page  */
+#home-landing {
+    height: 92vh;
+    background-image: url('https://d9hhrg4mnvzow.cloudfront.net/votebymail.civicengine.com/712879ad-desktopvoters.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position:bottom center;
+    text-align: center;
+}
+
+#home-landing h1 {
+    font-size: 100px;
+    color: black;
+
+}
+
+/* Learn More Page  */
+
+#learn-more-landing {
+    height: 60vh;
+    background-image: url('https://media1.s-nbcnews.com/i/newscms/2020_34/1602641/mail-in-ballot-jc-200820_b10670c507f080d23f14f141be0ad081.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    text-align: center;
+}
+#learn-more-landing h1 {
+   color: black ;
+   font-size:100px;
+
+}
+
+/* People Impacted Page */
+
+#people-impacted-landing {
+    height: 60vh;
+    background-image: url('https://media.newyorker.com/photos/5e90a41cb1814300082a929d/master/w_2560%2Cc_limit/Taylor-blackplague.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position :center;
+    text-align: center;
+}
+#people-impacted-landing h1 {
+   color: black;
+   text-shadow: 5px 5px 5px white;
+   font-size:100px;
+}
+
+/* Resources Page */
+
+#resources-landing {
+    height: 60vh;
+    background-image: url('https://www.tolerance.org/sites/default/files/styles/tw_fb/public/2018-08/TT_Voting%20and%20Voices_5%20Myths_3.png?h=324c8701&itok=_U1b_i8f');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    text-align:center;
+}
+#resources-landing h1 {
+   color: black;
+   text-shadow: 5px 5px 5px white;
+   font-size:100px;
+}
+
+/* About the Developer Page  */
+
+#about-the-developer {
+    height: 60vh;
+    background-image: url('https://theracquet.org/wp-content/uploads/2020/04/women-of-color-900x675.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    text-align:center;
+}
+#about-the-developer h1 {
+   color: #DDFFF7;
+   text-shadow: 5px 5px 5px #93E1D8;
+   font-size:100px;
