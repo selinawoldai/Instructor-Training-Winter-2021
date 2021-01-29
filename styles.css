@@ -13,6 +13,29 @@ h4, a {
 
 }
 
+/* Navigation Bar */
+.nav-container {
+  height: 8vh;
+  background-color:#C5E6A6;
+  padding: 20px;
+}
+.nav-container h4 {
+  display:inline;
+  color:#352208;
+  font-size:20px;
+}
+
+#nav {
+  float:right;
+}
+
+#nav a {
+  color: #352208;
+  text-decoration: none;
+  padding: 20px 10px 0 10px;
+  font-size: 20px;
+}
+
 /* Home Page  */
 #home-landing {
     height: 92vh;
@@ -88,6 +111,6 @@ h4, a {
     text-align:center;
 }
 #about-the-developer h1 {
-   color: #DDFFF7;
+   color: #352208;
    text-shadow: 5px 5px 5px #93E1D8;
    font-size:100px;
